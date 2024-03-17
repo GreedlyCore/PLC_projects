@@ -1,0 +1,7 @@
+Id;Default
+0;CO2_detector
+4;is door open?
+1;is valve open?
+5;temperature_detector
+2;Тактовая кнопка1
+3;Тактовая кнопка2
